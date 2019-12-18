@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WideWorldImporters.API.Unit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WideWorldImporters.API.IntegrationTests", "WideWorldImporters.API.IntegrationTests\WideWorldImporters.API.IntegrationTests.csproj", "{48594ACB-F457-407E-829F-61707C51A8D6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "setup db", "setup db", "{2C350EDA-79D7-489F-B0A8-B840B3DBB19B}"
+	ProjectSection(SolutionItems) = preProject
+		D:\SQLbackups\WideWorldImporters-Full.bak = D:\SQLbackups\WideWorldImporters-Full.bak
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
